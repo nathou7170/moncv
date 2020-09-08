@@ -1,0 +1,85 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+}
+
+.infophoto{
+    height: 350px;
+}
+
+.info{
+    float: left;
+    margin-top: 30px;
+}
+
+.photo{
+    float: right;
+}
+
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.sec-g{
+    float: left;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.sec-d{
+    margin-left: 150px;
+}
+
+h2{
+    font-size: 28px;
+    color: dodgerblue;
+    border-bottom: 3px solid dodgerblue;
+}
+
+.duree{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#forma-gauche p{
+    margin-bottom: 30px;
+}
+
+#forma-droite{
+    margin-top : -175px;
+    margin-bottom: 35px;
+}
+#exp-gauche p{
+    margin-bottom: 70px;
+}
+
+#exp-droite p{
+    margin-top: -50px;
+    margin-bottom: 65px;
+}
+
+#langue-droite{
+    margin-bottom: 70px;
+
+}
+
+#langue-gauche{
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+
+strong{
+    font-size: 16px;
+}
+
+.profile{
+    margin-top: -180px;
+}
